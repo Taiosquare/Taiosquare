@@ -6,9 +6,9 @@ I am a Backend Web Developer, Software Engineer and Blockchain Enthusiast.
 
 - I am open to partaking in projects that are aimed at making the world a better place.
 
-- Major Technologies: JavaScript, Node.Js, MongoDB.
+- Frequently Used Technologies: JavaScript, Node.Js, MongoDB.
 
-<h2>Projects</h2>
+<h2>Public Projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
