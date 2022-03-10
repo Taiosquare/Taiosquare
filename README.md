@@ -42,14 +42,17 @@ I am a Backend Web Developer, Software Engineer and Blockchain Enthusiast.
 
 ### Technologies I have worked with: 
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/javascript.svg" title="javascript"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/nodedotjs.svg" title="node.js"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/mongodb.svg" title="mongodb"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/git.svg" title="git"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/heroku.svg" title="heroku"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/jest.svg" title="jest"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/amazons3.svg" title="S3"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/html5.svg" title="html5"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/css3.svg" title="css3"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/mysql.svg" title="mysql"></code>
+<code><img height="40" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/postman.svg" title="Postman"></code>
 
 
 ### Github Stats
@@ -66,6 +69,7 @@ I am a Backend Web Developer, Software Engineer and Blockchain Enthusiast.
 ### Connect with me: 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/joshua-osaigbovo/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://twitter.com/Taiosquare" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/joshua-osaigbovo/" target="blank"><img align="center" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/linkedin.svg" alt="" height="30" /></a>
+<a href="https://twitter.com/Taiosquare" target="blank"><img align="center" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/twitter.svg" alt="" height="30" /></a>
+<a href="mailto: vikkyjoe5@gmail.com" target="blank"><img align="center" src="https://github.com/Taiosquare/data_rule_validation/blob/main/src/icons/gmail.svg" alt="" height="30" /></a>
 </p>
