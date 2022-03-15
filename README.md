@@ -23,7 +23,7 @@ I am a Backend Web Developer, Software Engineer and Blockchain Enthusiast.
      </tr>
      <tr>
      <tr>
-      <td><a href="https://github.com/Taiosquare/ticket_booking_app"><b>Ticket Booking App</b></a></td>
+      <td><a href="https://github.com/Taiosquare/ticketBookingApp"><b>Ticket Booking App</b></a></td>
       <td>An Event Ticket Booking App</td>
     </tr>
     <tr>
